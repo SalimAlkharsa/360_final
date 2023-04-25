@@ -1,2 +1,3 @@
 venv/
 arr_mfcc.npy
+upload_db.py
